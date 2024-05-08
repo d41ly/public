@@ -4,7 +4,7 @@
 DATETIME=`date +%y%m%d-%H_%M_%S`
 SRC=/var/lib/docker/volumes/
 # Replace with your remote destination
-DST=YOURREMORE:YOURBUCKET/YOURDESTINATION
+DST=YOURREMOTE:YOURBUCKET/PATH
 GIVENNAME=docker_backup
 tarandzip(){
     tar -czf $GIVENNAME-$DATETIME.tar.gz $SRC
