@@ -309,7 +309,7 @@
                 "restore": {
                     "parameters": {
                         "__IMTCONN__": {
-                            "label": "My HubSpot CRM connection (tripletenenjoyer@d41ly.com)",
+                            "label": "My HubSpot CRM connection ()",
                             "data": {
                                 "scoped": "true",
                                 "connection": "hubspotcrm"
@@ -3268,7 +3268,7 @@
                                 "restore": {
                                     "parameters": {
                                         "__IMTCONN__": {
-                                            "label": "My HubSpot CRM connection (tripletenenjoyer@d41ly.com)",
+                                            "label": "My HubSpot CRM connection ()",
                                             "data": {
                                                 "scoped": "true",
                                                 "connection": "hubspotcrm"
@@ -3493,7 +3493,7 @@
                                 "restore": {
                                     "parameters": {
                                         "__IMTCONN__": {
-                                            "label": "My HubSpot CRM connection (tripletenenjoyer@d41ly.com)",
+                                            "label": "My HubSpot CRM connection ()",
                                             "data": {
                                                 "scoped": "true",
                                                 "connection": "hubspotcrm"
